@@ -1,4 +1,4 @@
-0.0.0.0 youtube.com
-0.0.0.0 tiktok.com
-0.0.0.0 facebook.com
-0.0.0.0 netflix.com
+youtube.com
+tiktok.com
+facebook.com
+netflix.com
